@@ -1,6 +1,6 @@
 # CS544 NLP Project - Amazon Product Reviews Sentiment Analysis
 
-## How reproduce the results
+## How to reproduce the results
 
 Please follow below steps to reproduce experiment results
 
